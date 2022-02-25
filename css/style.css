@@ -1,0 +1,16 @@
+body{
+    margin-top: 3.5rem;
+}
+.alertBox{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: .5s;
+}
+#responseJsonText{
+    background-color: rgb(39, 39, 39);
+    color: wheat;
+    min-height: 200px;
+    max-height: 500px;
+}
